@@ -1,0 +1,11 @@
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\bin\Debug\THA_W5_MaulanaMA.exe.config
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\bin\Debug\THA_W5_MaulanaMA.exe
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\bin\Debug\THA_W5_MaulanaMA.pdb
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.Form1.resources
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.Properties.Resources.resources
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.exe
+C:\Users\Olan\source\repos\THA_W5_MaulanaMA\THA_W5_MaulanaMA\obj\Debug\THA_W5_MaulanaMA.pdb
